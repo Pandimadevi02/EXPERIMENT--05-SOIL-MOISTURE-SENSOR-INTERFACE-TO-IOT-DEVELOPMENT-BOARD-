@@ -272,15 +272,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots on serial monitor   :
 
-![soil moisture op](https://github.com/Pandimadevi02/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/113016781/cc92484c-aa49-43dc-83aa-04256e192ea2)
+![WhatsApp Image 2023-05-31 at 09 37 05](https://github.com/Pandimadevi02/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/113016781/2f0188fb-9dea-4ff8-8049-5b4d0555d131)
 
-![WhatsApp Image 2023-05-31 at 09 37 07](https://github.com/Pandimadevi02/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/113016781/0b4cdfd1-7eef-4e6c-9db1-fcf62bccc294)
+![WhatsApp Image 2023-05-31 at 09 37 05](https://github.com/Pandimadevi02/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/113016781/e7c9628c-2e4e-4290-8dab-396b7ed1dd43)
 
- ![WhatsApp Image 2023-05-31 at 09 37 07](https://github.com/Pandimadevi02/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/113016781/d00d384e-3c77-4e77-8db2-b8549461a97a)
-
-![WhatsApp Image 2023-05-31 at 09 37 08](https://github.com/Pandimadevi02/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/113016781/5bf1071d-e5ba-4866-97dd-7c3384a8ef6f)
-
- 
  
  
 ## Result :
